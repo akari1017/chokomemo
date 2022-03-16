@@ -5,8 +5,17 @@
   background-color: #ccf1cf;
   width: 300px;
   height: 100vh;
+  padding: 40px 40px 0;
 }
 .chat {
   background-color: #FFFFFF;
   width: calc(100vw - 300px);
+  padding: 0 20px;
+}
+.name-text {
+  font-size: 1.0em;
+  color: rgb(163, 163, 163);
+}
+.name {
+  font-size: 1.3em;
 }
