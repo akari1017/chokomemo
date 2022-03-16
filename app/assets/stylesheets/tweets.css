@@ -2,31 +2,11 @@
   display: flex;
 }
 .side-bar {
-  background-color: #baf8cf;
-  width: 400px;
+  background-color: #ccf1cf;
+  width: 300px;
   height: 100vh;
 }
-
-.side-bar-header {
-  height: 80px;
-  padding: 0 20px;
-}
-.rooms {
-  background-color: #daf5ca;
-  height: calc(100vh - 80px);
-  padding: 0 20px;
-}
-
-.page {
-  background-color: #ffffff;
-  width: calc(100vw - 400px);
-}
-.page-header {
-  height: 80px;
-  padding: 0 40px;
-}
-.tweets {
-  background-color: #f3f3f3;
-  height: calc(100vh - 80px);
-  padding: 46px 40px 0;
+.chat {
+  background-color: #FFFFFF;
+  width: calc(100vw - 300px);
 }
